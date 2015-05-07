@@ -1,0 +1,1 @@
+Open up two separate git bash's, one to run the server and the other for the client respectively. Once the server is up the client can log in.
